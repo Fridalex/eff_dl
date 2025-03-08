@@ -1,0 +1,75 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pdb
+
+# Data files
+data/
+datasets/
+*.csv
+*.tsv
+*.json
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+.env.bak/
+pip-log.txt
+
+# Log files
+logs/
+*.log
+
+# Output files
+*.out
+*.h5
+*.hdf5
+*.model
+*.weights
+*.pt
+
+
+# Results
+results/
+output/
+scores/
+
+# Matplotlib figures
+figures/
+*.png
+*.pdf
+*.svg
+
+# Machine learning libraries
+*.pkl
+*.joblib
+
+# IDEs
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Install logs
+npm-debug.log*
+
+# Anaconda
+*.conda
+
+# Parameters and configurations
+*.yaml
+*.yml
+
+# DVC logs
+*.lock
+                                  
